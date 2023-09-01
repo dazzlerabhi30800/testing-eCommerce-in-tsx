@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Iphone 18 (128 GB) RED",
+    "stock": true,
+    "image": "/images/apple-iphone-14.png",
+    "quantity": 0,
+    "price": 66499,
+    "discount": 25
+  },
+
+  {
+    "id": 2,
+    "name": "Blue Lock Manga Vol-1",
+    "stock": true,
+    "image": "/images/blue-lock-manga-volume-1.jpg",
+    "quantity": 0,
+    "price": 899,
+    "discount": 18
+  },
+
+  {
+    "id": 3,
+    "name": "Dell g15 Gaming Laptop",
+    "image": "/images/dell-g15-laptop.png",
+    "stock": true,
+    "quantity": 0,
+    "price": 61999,
+    "discount": 19
+  },
+
+  {
+    "id": 4,
+    "name": "Hp 15 Laptop",
+    "stock": true,
+    "image": "/images/hp15-laptop.png",
+    "quantity": 0,
+    "price": 44998,
+    "discount": 20
+  },
+  {
+    "id": 5,
+    "name": "JBL Wave TWS",
+    "stock": true,
+    "image": "/images/jbl-wave-tws.png",
+    "quantity": 0,
+    "price": 4999,
+    "discount": 20
+  },
+  {
+    "id": 6,
+    "name": "Naruto Manga Vol-1",
+    "stock": true,
+    "image": "/images/naruto-manga-volume-1.jpg",
+    "quantity": 0,
+    "price": 999,
+    "discount": 20
+  }
+]
